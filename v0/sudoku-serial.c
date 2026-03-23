@@ -77,7 +77,7 @@ int isValidPlacement(int row, int col, int num){
 			return 0;
 		}
 	}
-	
+
 	int startRow = (row / L) * L; 
 	int startCol = (col / L) * L;
 
